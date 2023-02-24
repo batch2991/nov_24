@@ -8,6 +8,6 @@ public class Payments
   }
   public void billing()
   {
-	  
+	  System.out.print("xyz");
   }
 }
