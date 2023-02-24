@@ -10,4 +10,10 @@ public class Payments
   {
 	  System.out.print("xyz");
   }
+  public void pay()
+  {
+	  ////
+	  System.out.println("Sdfsdf");
+  }
+  
 }
